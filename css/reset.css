@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+ul, ol{
+    list-style: none;
+}

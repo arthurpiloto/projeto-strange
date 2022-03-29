@@ -7,16 +7,15 @@ body{
     background-blend-mode: darken;
     display: flex;
     flex-direction: column;
-}
-
-header{
-    height: 120px;
+    padding: 0 128px;
 }
 
 main{
+    background-color: tomato;
     flex-grow: 1;
 }
 
 footer{
+    background-color: violet;
     height: 80px;
 }
