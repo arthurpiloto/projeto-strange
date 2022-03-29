@@ -1,3 +1,7 @@
+:root{
+    --accent-color: #FF031A;
+}
+
 body{
     height: 100vh;
     background: linear-gradient(90deg, #000, #000E 30%, #000A 50%, #0000), url(../img/background.png);
@@ -8,11 +12,6 @@ body{
     display: flex;
     flex-direction: column;
     padding: 0 128px;
-}
-
-main{
-    background-color: tomato;
-    flex-grow: 1;
 }
 
 footer{
