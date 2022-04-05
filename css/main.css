@@ -81,3 +81,26 @@ main{
     font-size: 1.5rem;
 }
 
+@media (max-width:768px){
+    .social-container{
+        display: none;
+    }
+    .movie-text{
+        display: none;
+    }
+    .movie-title{
+        padding-bottom: 40px;
+    }
+    .content-container{
+        justify-content: flex-end;
+        align-items: center;
+        padding-bottom: 56px;
+    }
+    .content-container h1{
+        font-size: 4rem;
+        line-height: 2.5rem;
+    }
+    .movie-title{
+        font-size: 1.5rem;
+    }
+}
