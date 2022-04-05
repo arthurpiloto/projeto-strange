@@ -1,0 +1,17 @@
+:root{
+    --accent-color: #FF031A;
+}
+
+body{
+    background: linear-gradient(-165deg, #000, #981414 50%, #F50505 80%, #F50505 100%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 128px;
+}
+
+@media (max-width: 768px){
+    body{
+        padding: 0 30px;
+    }
+}
