@@ -22,6 +22,10 @@ main{
     width: 96%;
 }
 
+.img-container{
+    border: 2px solid var(--accent-color);
+}
+
 .button{
     height: 72px;
     width: 300px;
