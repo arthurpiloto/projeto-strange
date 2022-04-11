@@ -2,10 +2,10 @@ main{
     flex-grow: 1;
     display: flex;
     font-family: 'Mulish', sans-serif;
-    font-size: 200;
     color: white;
     align-items: center;
     justify-content: center;
+    gap: 112px;
 }
 
 .about-container{
@@ -14,6 +14,22 @@ main{
     align-items: center;
 }
 
+.text-container{
+    font-size: 1.4rem;
+}
+
 .text-rectangle{
-    width: 70%;
+    width: 96%;
+}
+
+.button{
+    height: 72px;
+    width: 300px;
+    font-size: 1.2rem;
+    background-color: var(--accent-color);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
 }
