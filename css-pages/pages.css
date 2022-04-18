@@ -2,6 +2,11 @@
     --accent-color: #FF031A;
 }
 
+body, html {
+    position: relative;
+    overflow: hidden;
+}
+
 body{
     background: linear-gradient(-165deg, #000, #981414 50%, #F50505 80%, #F50505 100%);
     height: 100vh;
