@@ -38,10 +38,10 @@ main{
     margin-top: 16px;
 }
 
-/* @media (max-width: 768px){
+@media (max-width: 768px){
     main{
         flex-direction: column;
-        gap: 20px;
+        gap: 16px;
     }
 
     .text-container{
@@ -55,4 +55,4 @@ main{
     .button{
         display: none;
     }
-} */
+}
