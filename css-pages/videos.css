@@ -9,3 +9,15 @@ main{
 iframe{
     border: 5px solid #ff0318ab;
 }
+
+@media (max-width:768px){
+    main{
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    iframe{
+        width: 380px;
+        height: 250px;
+    }
+}
