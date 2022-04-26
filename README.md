@@ -10,17 +10,11 @@ Projeto construído durante as aulas de LIMA, no curso de Desenvolvimento de Sis
     <img width="200px" src="./img/mobile-menu.png">
 </div>
 
----
-
 ## Qual era o objetivo do projeto?
 O objetivo era criar uma landing page com base no design feito no Figma, aprendendo a estrutura do HTML, CSS, JavaScript e conceitos de responsividade.
 
----
-
 ## O que é uma Landing Page?
 Landings Pages são páginas com foco principal na conversão de visitantes, assim, essas páginas possuem uma estética mais minimalista comparada com os sites tradicionais.
-
----
 
 ## Quais tecnologias foram usadas?
 - HTML5
@@ -28,14 +22,10 @@ Landings Pages são páginas com foco principal na conversão de visitantes, ass
 - JavaScript
 - Figma
 
----
-
 ## Links
 - [Resultado](https://arthurpiloto.github.io/projeto-strange/)
 - [Projeto no Figma](https://www.figma.com/file/xivmBTxAT8z8FMxPuFHVBW/strange-design?node-id=9%3A48)
 - [Código](https://github.com/arthurpiloto/projeto-strange)
-
----
 
 ## Autor
 [Arthur Piloto](https://github.com/arthurpiloto)
