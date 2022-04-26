@@ -4,6 +4,8 @@ Projeto construído durante as aulas de LIMA, no curso de Desenvolvimento de Sis
 
 <div align="center">
     <img width="600px" src="./img/site.png">
+</div>
+<div align="center">
     <img width="200px" src="./img/mobile.png">
     <img width="200px" src="./img/mobile-menu.png">
 </div>
